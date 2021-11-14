@@ -301,7 +301,7 @@ nav #click {
   }
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 414px) {
   .main .texto {
     padding-left: 3rem;
   }
@@ -637,7 +637,7 @@ nav #click {
   width: 100%;
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 414px) {
   .banner .texto-banner h1 {
     font-size: 2rem;
   }
